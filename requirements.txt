@@ -1,5 +1,0 @@
-(text)
-streamline
-mediapipe
-opencv-python-headless
-numpy
