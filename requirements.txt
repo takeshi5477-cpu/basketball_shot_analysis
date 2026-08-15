@@ -1,4 +1,0 @@
-streamlit
-mediapipe==0.10.21
-opencv-python==5.0.0.93
-numpy==1.26.4
